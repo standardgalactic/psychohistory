@@ -1,5 +1,8 @@
-# psychohistory
+# Psychohistory
 
-edited with GPT3
+Part One: Psychohistory
+Part Two: Pergola
+
+Edited with ChatGPT (GPT 3.5)
 
 
